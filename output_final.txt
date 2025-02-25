@@ -1,0 +1,46 @@
+[
+{
+    "audio": "D:\\data_training\\data_output\\chunk_0.wav",
+    "text": " Listening Test In the listening test, you will be asked to demonstrate how well you understand spoken English. The entire listening test will last approximately 45 minutes. There are four parts, and directions are given for each part. You must mark your answers on the separate answer sheet. Do not write your answers in your test book. Part 1 Directions For each question, it is"
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_1.wav",
+    "text": " In this part, you will hear four statements about a picture in your test book. When you hear the statements, you must select the one statement that best describes what you see in the picture. Then find the number of the question on your answer sheet and mark your answer. The statements will not be printed in your test book and will be spoken only one time. Look at the example item below."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_10.wav",
+    "text": " C. A new supply order. Number 8. Do you want to buy the blue sofa or the yellow one? A. A three-bedroom apartment. B. I like the yellow one. C. I've already been there. Number 9. What is your..."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_2.wav",
+    "text": " Listen to the four statements. A. They're moving some furniture. B. They're entering a meeting room. C. They're sitting at a table. D. They're cleaning the carpet. Statements C. They're sitting at a table. Is the best description of the picture, so you should select Answer C and mark it on your answer sheet. Now."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_3.wav",
+    "text": " Now part 1 will begin. Number 1. Look at the picture marked number 1 in your test book. A. A man is carrying a backpack. B. A man is tying his shoelace. C. A woman is purchasing a snack. D. A woman is picking up a ticket from the ground. Number 2. Look at the picture marked number 1 in your test book. A. A woman is carrying a backpack. D. A woman is tying her shoelace. A. A man is carrying a backpack. A. A woman is tying her shoelace. A. A woman is carrying a backpack. A. A man is carrying a backpack."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_4.wav",
+    "text": " Get the picture marked number two in your test book. A. She's wiping off a counter. B. She's putting dishes in a sink. C. She's using a microwave oven. D. She's rinsing a cloth under a faucet. Go on to the next page."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_5.wav",
+    "text": " Number three. Look at the picture marked number three in your test book. A. A man is walking behind some parked cars. B. A woman is cleaning snow off a walkway. C. A man is maintaining a fence. D. A woman is taking off a snow jacket. Number four. Look at the picture marked number four."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_6.wav",
+    "text": " Number 4 in your test book. A. He's placing a pan in an oven. B. He's hanging up an apron. C. Some pots are stacked on the floor. D. Some jars are arranged on shelves. Number 5. Look at the picture marked Number 5 in your test book. A. A building."
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_7.wav",
+    "text": " under construction. B. A metal bench is unoccupied. C. A bicycle is propped against a tree. D. A tree has fallen down. Number 6. Look at the picture marked number 6 in your test book. A. A customer is standing near a shopping cart. B. Some bags have been left"
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_8.wav",
+    "text": " on the floor. C. A shopping cart has been left in a parking area. D. A customer is leaning into a freezer. Go on to the next page. Part 2. Directions. You will hear a question or statement and three responses spoken in English. They will not"
+},
+{
+    "audio": "D:\\data_training\\data_output\\chunk_9.wav",
+    "text": " be printed in your test book and will be spoken only one time. Select the best response to the question or statement and mark the letter A, B, or C on your answer sheet. Now let us begin with question number seven. Number seven. Have you made an appointment with your dentist yet? A. I'll put it upstairs for now. B. Yes, last week."
+}
+]
