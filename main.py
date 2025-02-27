@@ -57,6 +57,12 @@ def split_audio_final(folder_path):
     file_list = list(folder_path.glob("*.mp3"))
     for file_path in file_list:
         split_audio(file_path, r"D:\data_training\data_output")
+def single_transcript(input_file_audio, output_file):
+    model = whisper.load_model("small")
+    result = model.transcribe(input_file_audio)
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write( str(result["text"]))
 
-split_audio_final(r"D:\data_training\data_input")
-# output(r"D:\data_training\data_output\toeic19", r"D:\data_training\output_final.txt" )
+# split_audio_final(r"D:\data_training\data_input")
+# transcript(r"D:\data_training\data_output\toeic19", r"D:\data_training\output_final.txt" )
+single_transcript(r"D:\data_training\data_output\datasets_huggingfaces\datasets_huggingface.mp3", r"output_final1.txt")

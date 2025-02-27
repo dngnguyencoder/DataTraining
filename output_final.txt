@@ -1,0 +1,370 @@
+[
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_0.wav",
+    "text": " Listening Test In the listening test, you will be asked to demonstrate how well you understand spoken English. The entire listening test will last approximately 45 minutes. There are four parts, and directions are given for each part. You must mark your answers on the separate answer sheet. Do not write your answers in your test book. Part 1 Directions For each question, it is"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_1.wav",
+    "text": " In this part, you will hear four statements about a picture in your test book. When you hear the statements, you must select the one statement that best describes what you see in the picture. Then find the number of the question on your answer sheet and mark your answer. The statements will not be printed in your test book and will be spoken only one time. Look at the example item below."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_2.wav",
+    "text": " Listen to the four statements. A. They're moving some furniture. B. They're entering a meeting room. C. They're sitting at a table. D. They're cleaning the carpet. Statements C. They're sitting at a table. Is the best description of the picture, so you should select Answer C and mark it on your answer sheet. Now."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_3.wav",
+    "text": " Now part 1 will begin. Number 1. Look at the picture marked number 1 in your test book. A. A man is carrying a backpack. B. A man is tying his shoelace. C. A woman is purchasing a snack. D. A woman is picking up a ticket from the ground."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_4.wav",
+    "text": " Get the picture marked number two in your test book. A. She's wiping off a counter. B. She's putting dishes in a sink. C. She's using a microwave oven. D. She's rinsing a cloth under a faucet. Go on to the next page."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_5.wav",
+    "text": " Number three. Look at the picture marked number three in your test book. A. A man is walking behind some parked cars. B. A woman is cleaning snow off a walkway. C. A man is maintaining a fence. D. A woman is taking off a snow jacket. Number four. Look at the picture marked number four."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_6.wav",
+    "text": " Number 4 in your test book. A. He's placing a pan in an oven. B. He's hanging up an apron. C. Some pots are stacked on the floor. D. Some jars are arranged on shelves. Number 5. Look at the picture marked Number 5 in your test book. A. A building."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_7.wav",
+    "text": " under construction. B. A metal bench is unoccupied. C. A bicycle is propped against a tree. D. A tree has fallen down. Number 6. Look at the picture marked number 6 in your test book. A. A customer is standing near a shopping cart. B. Some bags have been left"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_8.wav",
+    "text": " on the floor. C. A shopping cart has been left in a parking area. D. A customer is leaning into a freezer. Go on to the next page. Part 2. Directions. You will hear a question or statement and three responses spoken in English. They will not"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_9.wav",
+    "text": " be printed in your test book and will be spoken only one time. Select the best response to the question or statement and mark the letter A, B, or C on your answer sheet. Now let us begin with question number seven. Number seven. Have you made an appointment with your dentist yet? A. I'll put it upstairs for now. B. Yes, last week."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_10.wav",
+    "text": " C. A new supply order. Number 8. Do you want to buy the blue sofa or the yellow one? A. A three-bedroom apartment. B. I like the yellow one. C. I've already been there. Number 9. What is your..."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_11.wav",
+    "text": " restaurant going to open for business. A. These are new clothes. B. By the end of the month. C. Yes, it's a large rest area. Number 10. Why won't my computer turn on? A. No, it's a small font. B. Turn right at the corner. C. Because"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_12.wav",
+    "text": " because the battery is old. Number 11 Do you like the renovations we did to the office? A. The construction company down the street. B. He's in the cafeteria. C. Yes, it's very spacious now. Number 12 Which conference?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_13.wav",
+    "text": " room is the accountant using? A. The one on the first floor. B. It went well, thanks. C. That was a lot of money. Number 13. The internet isn't working. A. There's the cleaning cruise checklist. B. We should call the IT department. C."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_14.wav",
+    "text": " Several copies, please. Number 14. Would you like to present first or should I? A. About $20 each. B. No, it's the second train. C. I'm ready to start. Number 15. The concert ticket."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_15.wav",
+    "text": " Our own sale now, aren't they? A. The new director of marketing. B. Yes, and they're selling fast. C. One of my favorite bands. Number 16. Do you have any feedback about Yumiko's performance? A. Yes, her work is excellent. B."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_16.wav",
+    "text": " near the back of the room. C. It's nice to meet you. Number 17. Why don't we reassign Sylvia to the evening shift in the stock room? A. Sure. I expect she'll be okay with that. B. I sent my assignment to the instructor. C. The new office furniture is comfortable."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_17.wav",
+    "text": " Number 18. How can we find extra seasonal help? A. Spring is my favorite season. B. Let's post some job listings on our website. C. Because he left early today. Number 19. Do you know if there's a bus from..."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_18.wav",
+    "text": " here to New York City? A. That's a great idea. B. No, he studied in London. C. Yes, there's one every day around nine o'clock. Number 20. Who's driving you to the airport? A. The hotel has a free shuttle. B. She just received her pilot's license."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_19.wav",
+    "text": " C. About twenty minutes late. Number twenty-one. How often should I replace the water filter? A. A new coffee maker. B. Can I have more ice, please? C. There's a manual in the cabinet. Number twenty-two."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_20.wav",
+    "text": " Aren't you still on the event planning committee? A. There's an orange sign at the entrance. B. Check the bookshelf by the window. C. Members are replaced every year. Number 23. Would you like to join us for tea now in the cafeteria? A. I have a client meeting in 10 minutes. B."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_21.wav",
+    "text": " Actually, I joined a different gym. C. Some tables and chairs. Number 24. How do you think the new robotics technician is doing? A. I've been working offsite for a few weeks. B. The tools are on my desk. C. Because the team won first place."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_22.wav",
+    "text": " Number 25. I hope the building inspector will arrive soon. A. No, not as much as we expected. B. Traffic is heavy on Highway 90. C. A multi-level apartment complex. Number 26. We should order a cake for the company picnic. Number 27. We should order a cake for the company picnic."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_23.wav",
+    "text": " A. Some of the staff don't eat sweets. B. The bank is on 12th Street. C. About 5 km. Number 27. Does the rental vehicle have automatic or manual transmission? A. It's on the shelf in the office. B. Bradley will be driving the vehicle."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_24.wav",
+    "text": " C. The lights turn on automatically. Number 28. I'd like to have some jackets altered. A. I prefer a hundred percent cotton. B. When would you like to pick them up? C. Yes, it's a much shorter trip. Number 29."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_25.wav",
+    "text": " Where should we unload the kitchen tiles? A. The client isn't at home right now. B. Not long ago. C. Sorry, I spilled the water. 30. Are you using the older version of the software or the one that was just released? A. I'm using brass hardware in the kitchen."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_26.wav",
+    "text": " B. Were we supposed to update the program? C. Yes, he has a used computer. Number 31. Could you help me access my email account before you leave? A. On the top shelf. B. Did you check the storage closet? C. Several technicians are working late tonight."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_27.wav",
+    "text": " Part 3. Directions You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation. Select the best response to each question and mark the letter A, B, C, or D on your answer sheet. The conversations will not be printed in your text."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_28.wav",
+    "text": " and will be spoken only one time. Questions 32 through 34 refer to the following conversation. Hello, I've come to close my bank account. I received an email informing me that the bank is going to start charging a monthly maintenance fee, and I'd rather keep my money in an account with no fee. Yes, that's our new policy. Are you aware, though, that we'll waive the fee if you maintain a minimum balance of $500? Okay."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_29.wav",
+    "text": " That shouldn't be a problem. Where can I find a printed copy of the policy? I can print one out for you right now. Number 32. What does the man want to do at the bank? Number 33. What new policy are the speakers discussing?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_30.wav",
+    "text": " Number 34. What will the woman do next? Questions 35 through 37 refer to the following conversation. Hi Bianca, it's Matthew. I'm here at Mariano's East for Lauren's surprise retirement dinner, but nobody else is here."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_31.wav",
+    "text": " Hi Matthew, we're here at Marianne's West on Tenth Avenue. We've been wondering where you are. Oh no, I went to the wrong place but I'll be there soon. I just realized I left the gift I bought for her at the office so I can stop and pick it up on the way. Number 35. What event is taking place?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_32.wav",
+    "text": " Number 36. What problem does the man have? Number 37. Why will the man go to his office? Number 38. What problem does the man have?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_33.wav",
+    "text": " Friths, Kelfern Ltd just called. They received the fabric for their new line of sofas. They ordered brown, but received the green sofa fabric instead. Hmm, let me check our records. Looks like the product code was entered wrong when the order was processed. It's our fault. Okay, I'll call them right away to apologize and tell them to return the order. We'll get a new shipment out as soon as possible and I'll offer them a 20%"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_34.wav",
+    "text": " Discount for the inconvenience. Number 38. What type of business is Kelfern limited? Number 39. According to the man, what was the cause of a problem? Number 30. What kind of business is Kelfern limited? Number 31."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_35.wav",
+    "text": " Number 40. What will the woman offer Kelfern Limited? Questions 41 through 43 refer to the following conversation. Pauline, have you thought about where we should park our food truck for business next weekend? I was thinking Schiller Park would be a good location. A neighborhood festival is being held there on Saturday. I'm sure a lot."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_36.wav",
+    "text": " of people going to the festival will want to buy our fried noodles and dumplings. That's a good idea, but I'm worried about having the proper permit to sell food there. Does the one we already have cover that? It does. I already checked on that. Number 41. What industry do the speakers work in? Number 42."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_37.wav",
+    "text": " According to the woman, what event will be held on Saturday? Number 43. What is the man concerned about? Go on to the next page."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_38.wav",
+    "text": " Questions 44 through 46 refer to the following conversation. Hi, I'm interested in having an antique looked at to determine its value, and I heard your shop provides free appraisals. Are you available for one now? Yes, what do you have? It's this picture frame. I want to put it up for sale at an auction next month, and I need some help deciding on the starting bid. I see. This frame is nicely crafted."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_39.wav",
+    "text": " and should sell for quite a lot. There's some damage on it here that decreases the value, but that can easily be fixed. I'll give you a list of local people who do this kind of restoration. Number 44. Who most likely is the woman? Number 45. What does the man say he plans to do with an item?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_40.wav",
+    "text": " Number 46. What will the woman give the man? Questions 47 through 49 refer to the following conversation. Nalini, another patient missed an appointment today."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_41.wav",
+    "text": " A lot of our patients have been forgetting about their scheduled slots lately, even though we call the week before to remind them. Yes, I've noticed that this is becoming a problem, but we have so many patients that we don't have enough time to make more frequent calls. We should seriously consider automated appointment reminders. There are lots of software programs that do it. That's a great idea. But let's make sure we invest in a good one. I know many offices already use them."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_42.wav",
+    "text": " I'll ask for some recommendations now. Number 47 What problem are the speakers discussing? Number 48 What does the man suggest doing? Number 49"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_43.wav",
+    "text": " What does the woman say she will do next? Questions 50 through 52 refer to the following conversation with three speakers. Welcome. How can I help you? Hi. We own a small commercial fishing company in the area. A friend of ours referred us to you. You see, one of our boats anchor engines isn't retracting the ch-"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_44.wav",
+    "text": " rain completely. And we have to finish pulling it in manually. Hmm. We might need to send your boat to a dry dock to make that kind of repair. Okay, but this is our peak season. We really need to have the engine fixed as quickly as possible. The Marina Post's its dry dock availability on its website. Let's see how soon they can fit you in. What industry do the men work in?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_45.wav",
+    "text": " Number 51. What problem are the speakers discussing? Number 52. What will the woman most likely do next?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_46.wav",
+    "text": " Questions 53 through 55 refer to the following conversation. Good morning, Lewis. Are you excited to go to the annual conference? Yes. I'm looking forward to learning about any new software that we could use to develop our smart kitchen appliances. I just wish I could get there earlier so I'd have time to explore the city. Well, there are no presentations in the evenings. That's a good point. I should see how late museums are open."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_47.wav",
+    "text": " Don't forget to keep all your receipts. I use an app to help me manage mine. It makes getting reimbursed a lot easier. Number 53. Why is the man going to a conference? Number 54. Why does the woman say? There are no presentations in the evenings."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_48.wav",
+    "text": " Number 55. What does the woman remind the man to do? Questions 56 through 58 refer to the following conversation with three speakers. Thanks for having this meeting with us Maxime."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_49.wav",
+    "text": " As you know, we want to increase the monitoring of wildlife movement in our park. You mentioned that you have some cameras already installed, correct? We have some motion detection cameras to capture movement in some areas, but we'd like to track wildlife at a greater distance. Motion detector cameras don't really work for that. You'd need to buy continuous recording cameras for that. You'll probably get some great videos. And actually, we could post those online. That's..."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_50.wav",
+    "text": " That would be great publicity for the park. Yes, that would be another advantage of installing the cameras. Number 56. Where do the women work? Number 57. What will the women most likely purchase from the man?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_51.wav",
+    "text": " Number 58. What Advantage Do The Women Mention? Questions 59 through 61 refer to the following conversation. I spoke to Representative Kimura from the City Council today. He's joining us in the studio on Tuesday so we can interview him about the City Council's"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_52.wav",
+    "text": " budget plans. Great! Our listeners always appreciate those interviews. I already have a list of questions to ask him. By the way, do you have time to listen to the recordings of last week's shows and compare them to the transcripts? Make any changes that need to be made? I'd like to post them to the website tomorrow. Doesn't the voice recognition software generate the transcripts? Yes, but the program isn't completely accurate."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_53.wav",
+    "text": " Number 59. Where do the speakers most likely work? Number 60. What will the woman do on Tuesday? Number 61. What does the woman mean when she says?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_54.wav",
+    "text": " but the program isn't completely accurate. Question 62 through 64 refer to the following conversation and product list. Hi, Marcos. Are you available to review this media release? I'd like another opinion. Sure, I'll take a look. Is this the announcement about the outdoor lights? Yes, the company wants us to..."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_55.wav",
+    "text": " to release about its most successful landscaping light products of the year, solar-powered outdoor lights. That's interesting. They've outsold all the other kinds, including wired landscaping lights. I think consumers like how easy the lights are to install. They don't require any special tools or knowledge to set up. Number 62. What is the woman preparing?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_56.wav",
+    "text": " Number 63. Look at the graphic. According to the woman, which is the most successful model? Number 64. What does the man think consumers like about a product?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_57.wav",
+    "text": " Go on to the next page. Questions 65 through 67 refer to the following conversation and item types. Thank you for meeting with me at your studio. I've just been commissioned to decorate a hotel lobby and I think a pair of your large floor vases will look great there."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_58.wav",
+    "text": " on each side of the front desk. Sure, Mr. Kwan. We have a few designs available right now. The most popular one is this tall vase with a wide opening in the middle. Hmm, that looks great. But I think I'll go with the one with the handles on both sides. It'll match the classic style of the lobby nicely. Wonderful. Great choice. Let me check with an associate about when we can deliver the vases to you."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_59.wav",
+    "text": " What has the man been hired to decorate? Number 66. Look at the graphic. Which item does the man choose? Number 66."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_60.wav",
+    "text": " 7. What will the woman talk to a colleague about? Questions 68 through 70 refer to the following conversation and schedule. I heard you offered tours of the city. I'm a travel agent and I like to try out different tour companies before recommending them to my clients. How long do your tours last? I'm a travel agent."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_61.wav",
+    "text": " Generally take between one and two hours. The Riverside tour is our most popular. It's one and a half hours long. I think I'd prefer to take a shorter one right now. Okay. And would you like to rent a headset? That way you can listen to the recorded information on your bus tour. That's a good option. Number 68. Why is the man interested in taking a tour?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_62.wav",
+    "text": " Number 69. Look at the graphic. What time does the most popular tour begin? Number 70. What will the man most likely do?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_63.wav",
+    "text": " Part 4. Directions You will hear some talks given by a single speaker. You will be asked to answer three questions about what the speaker says in each talk. Select the best response to each question and mark the letter A, B, C, or D on your answer sheet. The talks will not be p-"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_64.wav",
+    "text": " printed in your test book and will be spoken only one time. Questions 71 through 73 refer to the following advertisement. Are you tired of relying on noisy, bulky fans to cool you down on hot days? Then look no further than the Deluxe Cool. Its revolutionary design cools you off without the usual noise. Unlike typical rotating fans, the Deluxe Cool fan uses vibrations to move a single blade."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_65.wav",
+    "text": " to push air. And we're proud to say that it's now the quietest fan on the market. Now's the time to buy, as we are offering a special discount when you type in the code Deluxe at online checkout. Number 71. What product is being advertised? Number 72. Why is the"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_66.wav",
+    "text": " proud of the product. Number 73. How can the listeners receive a discount? Questions 74 through 76 refer to the following excerpt from a meeting. This is an update."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_67.wav",
+    "text": " for all dining room staff. Next month, we're going to stop handing out printed menus to customers. Instead, we will place a sign with a QR code on each table. Customers can scan the code with their smartphones to open a digital menu. The owners feel that scanned menus are more environmentally friendly and will use less paper. Now we know that not all customers will be familiar with this process. Please be sure to help any customers who need assistance."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_68.wav",
+    "text": " Number 74. Where does the talk most likely take place? Number 75. According to the speaker, why is a change being made? Number 76."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_69.wav",
+    "text": " What does the speaker ask the listeners to do? Question 77 through 79 refer to the following excerpt from a meeting. I'd like to start this meeting by sharing the results of the promotional campaign we ran last quarter for our new line of bottled juices and teas. As you know, Claudia was the one who suggested advertising."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_70.wav",
+    "text": " our products on popular social media channels. And you all put that plan into action. As a result of this campaign, awareness of our brand among younger consumers is up by 30%. Because of this success, we're going to be able to reward each of you with a bonus that's a percentage of your base salary. You'll see it in your June 3rd paycheck. What does the speaker's company sell?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_71.wav",
+    "text": " Number 78. What did Claudia suggest doing? Number 79. What will the listeners receive on June 3rd?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_72.wav",
+    "text": " Questions 80 through 82 refer to the following instructions. We'd like to welcome you to our archive of ancient manuscripts. Given the delicate condition of the items in our archive, we have a specific protocol that you must follow to protect the material as you conduct your research. Please store all personal belongings in the large filing cabinet against that wall. After you do, I will be distributing gloves that must be worn at all times."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_73.wav",
+    "text": " all times. Finally, at noon, we'll be breaking for lunch. See you all in the cafeteria. It's on the first floor of this building. Number 80. Why do the listeners have to follow a protocol? Number 81. Where should the listeners place their belongings?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_74.wav",
+    "text": " Number 82. What information does the speaker provide about the cafeteria? Go on to the next page."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_75.wav",
+    "text": " to the following telephone message. Hi, this is Raya calling from TopRack Editing Services. I wanted to let you know that the copy editor has completed reviewing the draft of your manuscript and it's now with the proofreader. When the final copy of the manuscript is ready, you will receive an automatic email notification from the cloud management system. By the way, you requested that the manuscript be ready within seven days. We guarantee a turnaround time of 10."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_76.wav",
+    "text": " days. Number 83. What type of business does the speaker work for? Number 84. According to the speaker, what will the listener receive by email?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_77.wav",
+    "text": " Number 85. What does the speaker imply when she says, We guarantee a turnaround time of 10 days. Questions 86 through 88 refer to the following podcast. Welcome to the Forestry Today podcast, a show about managing the health of trees and the productivity of woodlands."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_78.wav",
+    "text": " Today's guest is Jessica Williams, who works as a consulting forester for landowners. I was chatting with Jessica before the show about her work, and she said that one benefit of her job is she gets to interact with many different landowners in her area and learn about their woodlands. I know many of my listeners are interested in careers in forestry, so I'll begin by asking Jessica about the education she needed to get started in her career."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_79.wav",
+    "text": " Number 86. What is the podcast about? Number 87. What job benefit does Jessica Williams mention? Number 88. What will the speaker ask Jessica Williams?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_80.wav",
+    "text": " about. Questions 89 through 91 refer to the following announcement. Good afternoon and welcome aboard the Winding Creek Express. In just a few moments our scenic train ride will begin. We'll be travelling 60km from the pine forests of Winding Creek to the coastal town of Wendell Shores. This route."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_81.wav",
+    "text": " has been carrying cargo and passengers since 1885 and I'll tell you about its fascinating history along the way. We were planning to stop for a hike to the Wendell Shores lighthouse but the path is too wet from last night's rain. Number 89. Where is the announcement taking place? Number 90. Where is the announcement taking place? Number 90."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_82.wav",
+    "text": " 90. What information does the speaker say he will provide? Number 91. Why does the speaker say, The path is too wet from last night's rain. Number 92 through 94."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_83.wav",
+    "text": " refer to the following speech. Thanks for coming to this press conference. We often have container ships lined up at the port, waiting to be unloaded for several days. So today the Port Authority is announcing a modernization plan to utilize more automation, including automated cranes and driverless vehicles, to speed up the unloading process. Whenever automation is introduced, employees become worried about being replaced."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_84.wav",
+    "text": " by machines, but we'll always need workers here. And we're setting aside funds to offer career retraining programs for our dock workers. I've made a timeline for this modernization program. I'll distribute copies of it now. Number 92. What industry does the speaker most likely work in?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_85.wav",
+    "text": " Number 93. Why does the speaker say, But we'll always need workers here. Number 94. What will the speaker do next? Number 95. Questions 95 through 90."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_86.wav",
+    "text": " in the following talk and floor map. All right, now that we've concluded the guided portion of our tour, you all have the remaining hour to explore the museum at your leisure. In the Klein Gallery, you'll find an assortment of classical sculptures. There's also a short film in the auditorium about local artist Matteo Rossi. I highly recommend it. And if anyone wants to grab a bite to eat, the café has an assortment of sandwiches, coffees, and pastries."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_87.wav",
+    "text": " We'll meet back at the entrance outside of the gift shop in one hour. From there, we'll go on to the next stop on our city tour. Number 95 Who most likely is the speaker? Number 96 What does the speaker recommend?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_88.wav",
+    "text": " Number 97. Look at the graphic. Where will the listeners meet in one hour? Questions 98 through 100 refer to the following telephone message and schedule."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_89.wav",
+    "text": " Mr. Brown, you were referred to Brighter Smiles by your regular dentist. I see you've already checked in for your 11 a.m. appointment tomorrow. I'm calling to explain what will happen when you come in for your procedure. We'll start by doing some x-rays of your mouth, and then we'll use the digital scan to create your crown. We'll put in a temporary crown, and you'll come in for your follow-up appointment in three weeks. By the way, our parking area is being repaved this week."
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_90.wav",
+    "text": " So I suggest you use the free street parking on Morrison Avenue. Number 98. Look at the graphic. Which dentist will the listener see? Number 99. Why is the speaker calling?"
+},
+{
+    "audio": "D:\\data_training\\data_output\\toeic19\\chunk_91.wav",
+    "text": " Number 100. What does the speaker recommend that the listener do? This is the end of the listening test."
+}
+]
